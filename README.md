@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mawako
-- 👀 I'm the creator of the gamedump site.
+- 👀 This account is to store projects I've developed
 
 <!---
 mawako/mawako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
